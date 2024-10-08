@@ -1,5 +1,7 @@
 [Dolphin]
-SortOrder=1
-SortRole=modificationtime
-Timestamp=2023,1,25,15,39,44.095
+SortRole=destination
+Timestamp=2024,2,4,0,28,57.976
 Version=4
+
+[Settings]
+HiddenFilesShown=true
