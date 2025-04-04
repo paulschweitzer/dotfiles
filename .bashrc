@@ -164,6 +164,7 @@ alias ss23='cd ~/Dokumente/Uni.lu/SS_23/'
 alias ws23='cd ~/Dokumente/Uni.lu/WS_23/'
 alias ss24='cd ~/Dokumente/Uni.lu/SS_24/'
 alias ws24='cd ~/Dokumente/Uni.lu/WS_24/'
+alias ss25='cd ~/Dokumente/Uni.lu/SS_25/'
 alias rpg='cd ~/Dokumente/Uni.lu/SS_23/Programming\ 2/BICS/PF2/rpg-linux-lumberjacks/'
 
 # Utility
@@ -208,7 +209,7 @@ cowfunction() {
 
 export PATH="$PATH:/home/paul/.local/bin:/home/paul/.cargo/bin"
 export PATH="$PATH:/home/paul/tools/flutter/bin"
-
+export PATH=$PATH:/usr/local/go/bin
 alias luamake=/home/paul/.config/nvim/lua-language-server/3rd/luamake/luamake
 
 # Bash completion (breaks after using <tab> on org.gnome)
