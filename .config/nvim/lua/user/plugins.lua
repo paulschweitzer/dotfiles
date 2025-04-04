@@ -130,7 +130,7 @@ return packer.startup(function(use)
 	use 'glepnir/zephyr-nvim'
 	use 'shaunsingh/moonlight.nvim'
 	use { 'Everblush/nvim', as = 'everblush' }
-	use 'rmehri01/onenord.nvim'
+	-- use 'rmehri01/onenord.nvim'
 	use 'titanzero/zephyrium'
 	use 'kvrohit/mellow.nvim'
 	use { "catppuccin/nvim", as = "catppuccin" }
