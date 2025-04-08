@@ -114,7 +114,6 @@ return packer.startup(function(use)
 	}) -- nvim-surround
 	use "terrortylor/nvim-comment"   -- nvim-comment
 	use 'eandrju/cellular-automaton.nvim' -- cellular-automaton
-
 	-- Themes
 	use("kvrohit/rasmus.nvim")
 	use("folke/tokyonight.nvim")

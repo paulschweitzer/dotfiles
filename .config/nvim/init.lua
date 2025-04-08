@@ -1,5 +1,8 @@
 local vim = vim
 
+-- require("lazy").setup("plugins")
+-- require("config.lua")
+--
 require("user.plugins")
 require("mason").setup()
 require("mason-lspconfig").setup()
